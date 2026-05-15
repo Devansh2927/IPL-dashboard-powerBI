@@ -74,6 +74,8 @@ Deep dive into ball-by-ball data for granular phase-wise analysis (Powerplay, Mi
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
 📸 Dashboard Preview
+1 Dashboard 
 ![Dashboard Preview](https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165558.png)
-                    (https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165650.png)
-                    (https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165340.png)
+## **Power BI Dashboard Snapshots**
+![Snapshots Preview](https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165340.png)
+![Snapshots Preview](https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165650.png)
