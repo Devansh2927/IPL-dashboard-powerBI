@@ -63,9 +63,6 @@ Power Pivot / Data Model: For establishing relationships between Fact and Dimens
 
 DAX (Data Analysis Expressions): For creating calculated columns and robust measures.
 
-📸 Dashboard Preview
-![Dashboard Preview](Screenshot 2026-05-11 165558.png)
-
 💡 Future Scope
 Integration of real-time or live IPL match data via APIs.
 
@@ -75,3 +72,7 @@ Deep dive into ball-by-ball data for granular phase-wise analysis (Powerplay, Mi
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
+
+📸 Dashboard Preview
+![Dashboard Preview](https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165558.png)
+
