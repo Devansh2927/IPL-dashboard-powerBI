@@ -75,4 +75,5 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 📸 Dashboard Preview
 ![Dashboard Preview](https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165558.png)
-
+                    (https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165650.png)
+                    (https://github.com/Devansh2927/IPL-dashboard-powerBI/blob/main/Screenshot%202026-05-11%20165340.png)
